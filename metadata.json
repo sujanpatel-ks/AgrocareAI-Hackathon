@@ -1,0 +1,8 @@
+{
+  "name": "AgroCare AI",
+  "description": "A professional, physics-aware agricultural diagnostic tool with grounded realism and tactile interfaces for rural crop health management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
